@@ -1,0 +1,19 @@
+.options {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-right: 50px;
+}
+
+.option {
+    cursor: pointer;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.posters {
+    /* border: 3px solid red; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 100px;
+}

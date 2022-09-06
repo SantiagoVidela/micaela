@@ -1,0 +1,10 @@
+.posterItem {
+    width: 400px;
+    height: 600px;
+    /* border: 3px solid green; */
+}
+
+.posterImage {
+    width: 400px;
+    height: 600px;
+}
